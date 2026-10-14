@@ -73,3 +73,7 @@ make check
 
 Change plot and table defaults in `00_config.R`. The manuscript applies the generated `\TableStyle` to each table. Statistical and coding functions stay in `R/corpus.R` and `R/experiment.R`, where tests can call them without running the pipeline.
 
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
