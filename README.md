@@ -76,4 +76,14 @@ Change plot and table defaults in `00_config.R`. The manuscript applies the gene
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/know_casablanca](https://github.com/finite-sample/know_casablanca) — The Waters of Casablanca: On Political Misinformation \(Luskin and Sood\). Data, code, and manuscript.
+- [finite-sample/know_hidden](https://github.com/finite-sample/know_hidden) — Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+- [finite-sample/stddev](https://github.com/finite-sample/stddev) — Is the public's fickleness the work of a few?
+- [finite-sample/endorsement](https://github.com/finite-sample/endorsement) — Derive Proportion Supporting A Group From an Endorsement Experiment
+- [finite-sample/know_pgap_cues](https://github.com/finite-sample/know_pgap_cues) — Partisan cues and evaluations of the same economic information \(Roush and Sood\)
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
